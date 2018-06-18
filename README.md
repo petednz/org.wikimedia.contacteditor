@@ -24,4 +24,5 @@ if the api does not receive name & greeting fields they are computed:
 - By not doing the conversion if the relationship is invalid we are able to
 ignore membership issues - since it is the relationship that would
 make the conversion invalid.
+- There is a drupal permission that may need setting for relevant Roles
 
